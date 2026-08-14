@@ -1,0 +1,5 @@
+*.sh text eol=lf
+**/*.go linguist-detectable
+
+*.min.css linguist-generated
+*.htm linguist-vendored
